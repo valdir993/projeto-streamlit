@@ -1,3 +1,3 @@
 # Projeto sistema de Cadastro
 
-Meu primeiro sistema desenvelvido com Streamlit
+Meu primeiro sistema desenvolvido com Streamlit
